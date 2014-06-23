@@ -13,7 +13,7 @@ lib/Net/Async/Webservice/Common/Types.pm
 lib/Net/Async/Webservice/Common/WithConfigFile.pm
 lib/Net/Async/Webservice/Common/WithRequestWrapper.pm
 lib/Net/Async/Webservice/Common/WithUserAgent.pm
-t/lib/NaWsCwCF.conf
+t/lib/NaWsCwCF.pl
 t/release-no-tabs.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
