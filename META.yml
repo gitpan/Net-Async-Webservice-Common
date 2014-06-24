@@ -47,4 +47,4 @@ requires:
   warnings: '0'
 resources:
   repository: git://github.com/NET-A-PORTER/Net-Async-Webservice-Common.git
-version: 0.01_3
+version: 0.01_4

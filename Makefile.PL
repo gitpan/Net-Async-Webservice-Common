@@ -47,7 +47,7 @@ my %WriteMakefileArgs = (
     "HTTP::Response" => 0,
     "Test::Most" => 0
   },
-  "VERSION" => "0.01_3",
+  "VERSION" => "0.01_4",
   "test" => {
     "TESTS" => "t/*.t t/tests/Net/Async/Webservice/Common/*.t"
   }

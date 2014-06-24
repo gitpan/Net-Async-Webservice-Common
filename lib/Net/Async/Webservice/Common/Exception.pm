@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::Exception;
-$Net::Async::Webservice::Common::Exception::VERSION = '0.01_3';
+$Net::Async::Webservice::Common::Exception::VERSION = '0.01_4';
 {
   $Net::Async::Webservice::Common::Exception::DIST = 'Net-Async-Webservice-Common';
 }
@@ -29,7 +29,7 @@ sub as_string { "something bad happened at ". $_[0]->stack_trace->as_string }
 
 {
 package Net::Async::Webservice::Common::Exception::ConfigError;
-$Net::Async::Webservice::Common::Exception::ConfigError::VERSION = '0.01_3';
+$Net::Async::Webservice::Common::Exception::ConfigError::VERSION = '0.01_4';
 {
   $Net::Async::Webservice::Common::Exception::ConfigError::DIST = 'Net-Async-Webservice-Common';
 }
@@ -52,7 +52,7 @@ $Net::Async::Webservice::Common::Exception::ConfigError::VERSION = '0.01_3';
 
 {
 package Net::Async::Webservice::Common::Exception::HTTPError;
-$Net::Async::Webservice::Common::Exception::HTTPError::VERSION = '0.01_3';
+$Net::Async::Webservice::Common::Exception::HTTPError::VERSION = '0.01_4';
 {
   $Net::Async::Webservice::Common::Exception::HTTPError::DIST = 'Net-Async-Webservice-Common';
 }
@@ -91,7 +91,7 @@ Net::Async::Webservice::Common::Exception
 
 =head1 VERSION
 
-version 0.01_3
+version 0.01_4
 
 =head1 DESCRIPTION
 

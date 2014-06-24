@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::SyncAgentWrapper;
-$Net::Async::Webservice::Common::SyncAgentWrapper::VERSION = '0.01_3';
+$Net::Async::Webservice::Common::SyncAgentWrapper::VERSION = '0.01_4';
 {
   $Net::Async::Webservice::Common::SyncAgentWrapper::DIST = 'Net-Async-Webservice-Common';
 }
@@ -128,7 +128,7 @@ Net::Async::Webservice::Common::SyncAgentWrapper - minimal wrapper to adapt a sy
 
 =head1 VERSION
 
-version 0.01_3
+version 0.01_4
 
 =head1 DESCRIPTION
 
