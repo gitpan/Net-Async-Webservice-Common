@@ -77,7 +77,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "repository" : {
          "type" : "git",
@@ -85,6 +85,6 @@
          "web" : "https://github.com/NET-A-PORTER/Net-Async-Webservice-Common"
       }
    },
-   "version" : "0.01_4"
+   "version" : "1.0.0"
 }
 

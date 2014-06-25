@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::WithConfigFile;
-$Net::Async::Webservice::Common::WithConfigFile::VERSION = '0.01_4';
+$Net::Async::Webservice::Common::WithConfigFile::VERSION = '1.0.0';
 {
   $Net::Async::Webservice::Common::WithConfigFile::DIST = 'Net-Async-Webservice-Common';
 }
@@ -55,7 +55,7 @@ Net::Async::Webservice::Common::WithConfigFile - automatically load constructor 
 
 =head1 VERSION
 
-version 0.01_4
+version 1.0.0
 
 =head1 SYNOPSIS
 

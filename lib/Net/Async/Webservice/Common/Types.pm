@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::Types;
-$Net::Async::Webservice::Common::Types::VERSION = '0.01_4';
+$Net::Async::Webservice::Common::Types::VERSION = '1.0.0';
 {
   $Net::Async::Webservice::Common::Types::DIST = 'Net-Async-Webservice-Common';
 }
@@ -41,7 +41,7 @@ Net::Async::Webservice::Common::Types - common types for async webservice client
 
 =head1 VERSION
 
-version 0.01_4
+version 1.0.0
 
 =head1 Types
 
