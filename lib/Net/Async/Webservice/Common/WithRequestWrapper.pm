@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::WithRequestWrapper;
-$Net::Async::Webservice::Common::WithRequestWrapper::VERSION = '1.0.0';
+$Net::Async::Webservice::Common::WithRequestWrapper::VERSION = '1.0.1';
 {
   $Net::Async::Webservice::Common::WithRequestWrapper::DIST = 'Net-Async-Webservice-Common';
 }
@@ -96,7 +96,7 @@ Net::Async::Webservice::Common::WithRequestWrapper - helper methods to perform H
 
 =head1 VERSION
 
-version 1.0.0
+version 1.0.1
 
 =head1 SYNOPSIS
 

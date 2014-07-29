@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common;
-$Net::Async::Webservice::Common::VERSION = '1.0.0';
+$Net::Async::Webservice::Common::VERSION = '1.0.1';
 {
   $Net::Async::Webservice::Common::DIST = 'Net-Async-Webservice-Common';
 }
@@ -24,7 +24,7 @@ Net::Async::Webservice::Common - Some common classes to write async webservice c
 
 =head1 VERSION
 
-version 1.0.0
+version 1.0.1
 
 =head1 DESCRIPTION
 
