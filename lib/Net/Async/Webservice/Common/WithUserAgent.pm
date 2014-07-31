@@ -1,5 +1,5 @@
 package Net::Async::Webservice::Common::WithUserAgent;
-$Net::Async::Webservice::Common::WithUserAgent::VERSION = '1.0.1';
+$Net::Async::Webservice::Common::WithUserAgent::VERSION = '1.0.2';
 {
   $Net::Async::Webservice::Common::WithUserAgent::DIST = 'Net-Async-Webservice-Common';
 }
@@ -46,7 +46,7 @@ Net::Async::Webservice::Common::WithUserAgent - user_agent attribute, sync or as
 
 =head1 VERSION
 
-version 1.0.1
+version 1.0.2
 
 =head1 SYNOPSIS
 

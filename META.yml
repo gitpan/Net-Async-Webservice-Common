@@ -26,10 +26,10 @@ requires:
   Carp: '0'
   Config::Any: '0'
   Encode: '0'
-  Future: '0'
+  Future: '0.21'
   HTTP::Request: '0'
   HTTP::Request::Common: '0'
-  Moo: '0'
+  Moo: '1.001000'
   Moo::Role: '0'
   Scalar::Util: '0'
   StackTrace::Auto: '0'
@@ -47,4 +47,4 @@ requires:
   warnings: '0'
 resources:
   repository: git://github.com/NET-A-PORTER/Net-Async-Webservice-Common.git
-version: 1.0.1
+version: 1.0.2
